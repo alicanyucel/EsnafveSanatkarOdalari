@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EsnafveSanatkarOdalari/EsnafveSanatkarOdalari.Application/EsnafveSanatkarOdalari.Application.csproj" />
+  <Project Path="EsnafveSanatkarOdalari/EsnafveSanatkarOdalari.Domain/EsnafveSanatkarOdalari.Domain.csproj" />
+  <Project Path="EsnafveSanatkarOdalari/EsnafveSanatkarOdalari.Infrastructure/EsnafveSanatkarOdalari.Infrastructure.csproj" />
+  <Project Path="EsnafveSanatkarOdalari/EsnafveSanatkarOdalari.WebAPI/EsnafveSanatkarOdalari.WebAPI.csproj" />
+</Solution>
